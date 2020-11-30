@@ -13,6 +13,11 @@ import java.util.Set;
  *
  * @author Ismael
  */
+<<<<<<< HEAD
+=======
+
+ //CLASE QUE REGISTRA AL JUGADOR
+>>>>>>> main
 public class PlayerRegister {
     private HashMap<String, PlayerInformation> playerRegister;
     
