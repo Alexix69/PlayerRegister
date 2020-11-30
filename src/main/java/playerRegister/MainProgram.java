@@ -61,33 +61,7 @@ public class MainProgram extends Application {
     }
 
     public static void main(String[] args) throws Exception {
-//        PlayerRegister playerRegister = new PlayerRegister();
-//
-//        try {
-//            Files.lines(Paths.get("playerRegister.csv"))
-//                    .map(row -> row.split(","))
-//                    .filter(parts -> parts.length >= 6)
-//                    .map(part -> new PlayerInformation(Integer.valueOf(part[0]), part[1], part[2], part[3], part[4], Integer.valueOf(part[5].trim())))
-//                    .forEach(player -> playerRegister.addPlayerFromFile(player.getUserID(), player));
-//        } catch (Exception e) {
-//            System.out.println("Error: " + e.getMessage());
-//        }
-//
-//        FileWriter newWriter = new FileWriter("playerRegister.csv");
-//        //PrintWriter newWriter = new PrintWriter("playerRegister.csv");
-//
-//        PlayerInformation auxPlayer = new PlayerInformation("1751147735", "Rosa", "Torres", "Rouse");
-//        StringBuilder row = new StringBuilder();
-//        row.append(auxPlayer.getGameID()).append(", ")
-//                .append(auxPlayer.getName()).append(", ")
-//                .append(auxPlayer.getLastName()).append(", ")
-//                .append(auxPlayer.getUserID()).append(", ")
-//                .append(auxPlayer.getNickName()).append(", ")
-//                .append(auxPlayer.getVictories());
-//        
-//        newWriter.append(row);
-//        newWriter.close();
-//        System.out.println(playerRegister.getAllUserIDs());
+
 
         launch(MainProgram.class);
         //System.out.println(playerRegister.getAllUserIDs());
