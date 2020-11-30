@@ -14,7 +14,7 @@ import javafx.scene.layout.BorderPane;
  * @author Ismael
  */
 
-//ESTA CLASE ERA SOLO PARA PROBAR EL CAMBIO DE PANTALLA CON EL BOTÓN
+//ESTA CLASE NO DEBE IR EN EL PROYECTO, ES AUXILIAR
 public class AuxiliarView {
     
     public Parent getView(){
