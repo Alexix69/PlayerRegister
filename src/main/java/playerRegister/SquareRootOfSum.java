@@ -9,6 +9,6 @@ public class SquareRootOfSum {
         int number2=  scanner.nextInt();
         double square= Math.sqrt(number1 + number2);
         System.out.println(square);
-
     }
+    
 }
