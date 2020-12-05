@@ -12,11 +12,6 @@ import javafx.scene.layout.BorderPane;
 <<<<<<< HEAD
 
 //ESTA CLASE ERA SOLO PARA PROBAR EL CAMBIO DE PANTALLA CON EL BOTÓN
-=======
-/**
- *
- * @author Ismael
- */
 
 //ESTA CLASE NO DEBE IR EN EL PROYECTO, ES AUXILIAR
 >>>>>>> main
